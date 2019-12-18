@@ -1,0 +1,79 @@
+ID,Unlocalised name,Class
+1,potion.moveSpeed,net.minecraft.potion.Potion
+2,potion.moveSlowdown,net.minecraft.potion.Potion
+3,potion.digSpeed,net.minecraft.potion.Potion
+4,potion.digSlowDown,net.minecraft.potion.Potion
+5,potion.damageBoost,net.minecraft.potion.PotionAttackDamage
+6,potion.heal,net.minecraft.potion.PotionHealth
+7,potion.harm,net.minecraft.potion.PotionHealth
+8,potion.jump,net.minecraft.potion.Potion
+9,potion.confusion,net.minecraft.potion.Potion
+10,potion.regeneration,net.minecraft.potion.Potion
+11,potion.resistance,net.minecraft.potion.Potion
+12,potion.fireResistance,net.minecraft.potion.Potion
+13,potion.waterBreathing,net.minecraft.potion.Potion
+14,potion.invisibility,net.minecraft.potion.Potion
+15,potion.blindness,net.minecraft.potion.Potion
+16,potion.nightVision,net.minecraft.potion.Potion
+17,potion.hunger,net.minecraft.potion.Potion
+18,potion.weakness,net.minecraft.potion.PotionAttackDamage
+19,potion.poison,net.minecraft.potion.Potion
+20,potion.wither,net.minecraft.potion.Potion
+21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
+22,potion.absorption,net.minecraft.potion.PotionAbsoption
+23,potion.saturation,net.minecraft.potion.PotionHealth
+25,Bat Flight,totemic_commons.pokefenn.potion.PotionBatFlying
+26,Horse,totemic_commons.pokefenn.potion.PotionHorse
+27,potion.toxin,icbm.explosion.potion.PoisonToxin
+28,potion.virus,icbm.explosion.potion.PoisonContagion
+29,potion.frostBite,icbm.explosion.potion.PoisonFrostBite
+30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
+32,potion.paralysis,biomesoplenty.potions.PotionParalysis
+33,potion.possession,biomesoplenty.potions.PotionPossession
+49,Shrunken,am2.buffs.ArsMagicaPotion
+50,Water Breathing,am2.buffs.ArsMagicaPotion
+51,Flight,am2.buffs.ArsMagicaPotion
+52,Feather Fall,am2.buffs.ArsMagicaPotion
+53,Haste,am2.buffs.ArsMagicaPotion
+54,True Sight,am2.buffs.ArsMagicaPotion
+55,Regeneration,am2.buffs.ArsMagicaPotion
+56,Magic Shield,am2.buffs.ArsMagicaPotion
+57,Charmed,am2.buffs.ArsMagicaPotion
+58,Frost Slow,am2.buffs.ArsMagicaPotion
+59,Chrono Anchor,am2.buffs.ArsMagicaPotion
+60,Mana Regen,am2.buffs.ArsMagicaPotion
+61,Entangled,am2.buffs.ArsMagicaPotion
+62,Watery Grave,am2.buffs.ArsMagicaPotion
+63,Spell Reflect,am2.buffs.ArsMagicaPotion
+64,Silence,am2.buffs.ArsMagicaPotion
+65,Swift Swim,am2.buffs.ArsMagicaPotion
+66,Agility,am2.buffs.ArsMagicaPotion
+67,Leap,am2.buffs.ArsMagicaPotion
+68,Mana Boost,am2.buffs.ArsMagicaPotion
+69,Astral Distortion,am2.buffs.ArsMagicaPotion
+70,Mana Shield,am2.buffs.ArsMagicaPotion
+71,Fury,am2.buffs.ArsMagicaPotion
+72,Scramble Synapses,am2.buffs.ArsMagicaPotion
+73,Illuminated,am2.buffs.ArsMagicaPotion
+74,Greater Mana Restoration,am2.buffs.ManaPotion
+75,Epic Mana Restoration,am2.buffs.ManaPotion
+76,Legendary Mana Restoration,am2.buffs.ManaPotion
+77,Gravity Well,am2.buffs.ArsMagicaPotion
+78,Levitation,am2.buffs.ArsMagicaPotion
+79,Clarity,am2.buffs.ArsMagicaPotion
+80,rtImbue.imbuePoison,lumien.randomthings.PotionEffects.ImbuePoison
+81,rtImbue.imbueWeakness,lumien.randomthings.PotionEffects.ImbueWeakness
+82,rtImbue.imbueWither,lumien.randomthings.PotionEffects.ImbueWither
+100,Drowning,WayofTime.alchemicalWizardry.common.PotionDrowning
+101,Boost,WayofTime.alchemicalWizardry.common.PotionBoost
+102,Whirlwind,WayofTime.alchemicalWizardry.common.PotionProjectileProtect
+103,Inhibit,WayofTime.alchemicalWizardry.common.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.common.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.common.PotionReciprocation
+106,Flame Cloak,WayofTime.alchemicalWizardry.common.PotionFlameCloak
+107,Ice Cloak,WayofTime.alchemicalWizardry.common.PotionIceCloak
+108,Heavy Heart,WayofTime.alchemicalWizardry.common.PotionHeavyHeart
+109,Fire Fuse,WayofTime.alchemicalWizardry.common.PotionFireFuse
+110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
+111,Planar Binding,WayofTime.alchemicalWizardry.common.PotionPlanarBinding
+256,Delirium,minechem.potion.PotionProvider
